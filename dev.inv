@@ -1,2 +1,2 @@
 [webservers]
-172.31.20.115 ansible_user=hemanth 
+172.31.20.97 ansible_user=hemanth 
